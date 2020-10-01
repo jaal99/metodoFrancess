@@ -1,0 +1,26 @@
+{
+  "name": "prestamofrances",
+  "version": "1.0.0",
+  "description": "Calcula un prestamoen base al método frances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaal99/metodoFrancess.git"
+  },
+  "keywords": [
+    "prestamo",
+    "node",
+    "express",
+    "handlebars"
+  ],
+  "author": "Jassiel Aldana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaal99/metodoFrancess/issues"
+  },
+  "homepage": "https://github.com/jaal99/metodoFrancess#readme"
+}
